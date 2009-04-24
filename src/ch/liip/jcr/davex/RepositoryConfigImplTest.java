@@ -2,8 +2,8 @@ package ch.liip.jcr.davex;
 
 import org.apache.jackrabbit.spi.RepositoryService;
 import org.apache.jackrabbit.spi.commons.conversion.PathResolver;
-import org.apache.jackrabbit.spi.spi2davex.BatchReadConfig;
-import org.apache.jackrabbit.spi.spi2davex.RepositoryServiceImpl;
+import org.apache.jackrabbit.spi2davex.BatchReadConfig;
+import org.apache.jackrabbit.spi2davex.RepositoryServiceImpl;
 import org.apache.jackrabbit.spi.Path;
 
 import javax.jcr.NamespaceException;

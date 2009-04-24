@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/chregu/.maven/repository/org.apache.jackrabbit/jars/jackrabbit-jcr2spi-1.6-SNAPSHOT.jar" sourcepath="/opt/svn/jackrabbit/jackrabbit-jcr2spi"/>
+	<classpathentry kind="lib" path="/Users/chregu/.m2/repository/org/slf4j/slf4j-api/1.5.3/slf4j-api-1.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/.maven/repository/org.apache.jackrabbit/jars/jackrabbit-spi-1.6-SNAPSHOT.jar" sourcepath="/opt/svn/jackrabbit"/>
+	<classpathentry kind="lib" path="/Users/chregu/.maven/repository/org.apache.jackrabbit/jars/jackrabbit-spi-commons-1.6-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/Downloads/davex-sample/client/lib/jcr-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/.maven/repository/org.apache.jackrabbit/jars/jackrabbit-spi2dav-1.6-SNAPSHOT.jar" sourcepath="/opt/svn/spi/spi2dav"/>
+	<classpathentry kind="lib" path="/Users/chregu/.maven/repository/org.apache.jackrabbit/jars/jackrabbit-webdav-1.6-SNAPSHOT.jar" sourcepath="/opt/svn/jackrabbit/jackrabbit-webdav"/>
+	<classpathentry kind="lib" path="/Users/chregu/Downloads/davex-sample/client/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/Downloads/davex-sample/client/lib/slf4j-log4j12-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/.m2/repository/commons-httpclient/commons-httpclient/3.0/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/.maven/repository/org.apache.jackrabbit/jars/jackrabbit-jcr-server-1.6-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/.maven/repository/org.apache.jackrabbit/jars/jackrabbit-jcr-commons-1.6-SNAPSHOT.jar" sourcepath="/opt/svn/jackrabbit/jackrabbit-jcr-commons"/>
+	<classpathentry kind="lib" path="/Users/chregu/.m2/repository/commons-codec/commons-codec/1.2/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/.m2/repository/commons-logging/commons-logging/1.1/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/.m2/repository/commons-collections/commons-collections/3.2/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chregu/.m2/repository/concurrent/concurrent/1.3.4/concurrent-1.3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
