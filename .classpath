@@ -18,5 +18,6 @@
 	<classpathentry kind="lib" path="/Users/chregu/.m2/repository/commons-logging/commons-logging/1.1/commons-logging-1.1.jar"/>
 	<classpathentry kind="lib" path="/Users/chregu/.m2/repository/commons-collections/commons-collections/3.2/commons-collections-3.2.jar"/>
 	<classpathentry kind="lib" path="/Users/chregu/.m2/repository/concurrent/concurrent/1.3.4/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="/jackrabbit/jackrabbit-api/target/jackrabbit-api-1.6-SNAPSHOT.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
