@@ -1,0 +1,3 @@
+*.class
+/src/Test.jar
+*.log_IS_UNDEFINED
